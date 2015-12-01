@@ -1,0 +1,3419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<root>
+		<level1>
+			<nome>Noob</nome>
+			<jogo>
+				<nome>Space Invaders</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Fixed Shooter</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1978</ano>
+				<resposta>Space Invaders</resposta>
+				<linkimagem>Space-Invaders</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Batman: Arkham Asylum</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2009</ano>
+				<resposta>Batman Arkham Asylum</resposta>
+				<linkimagem>Batman</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Assassin's Creed</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2007</ano>
+				<resposta>Assassins Creed</resposta>
+				<dica1> This historical fiction action-adventure open world stealth video game series is well know for using replicas of famous historical places in it's level design</dica1>
+				<dica2>This game series features an ancient society of killers that operated in different cenarios such as the Italian Renaissance, Civil War United States or high-seas Pirates</dica2>
+				<linkimagem>Assassins-Creed</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Nintendogs</nome>
+				<plataforma>DS</plataforma>
+				<genero>Simulation/Pet</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2005</ano>
+				<resposta>Nintendogs</resposta>
+				<linkimagem>Nintendogs</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mortal Kombat</nome>
+				<plataforma>Arcade/Mega Drive/SNES</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1992</ano>
+				<resposta>Mortal Kombat</resposta>
+				<linkimagem>Mortal-Kombat</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legend of Zelda - Ocarina of Time</nome>
+				<plataforma>N64</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1998</ano>
+				<resposta>Ocarina of Time</resposta>
+				<linkimagem>The-Legend-of-Zelda-Ocarina-of-Time</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>God of War</nome>
+				<plataforma>PS2</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2005</ano>
+				<resposta>God of War</resposta>
+				<dica1>This is a Hack and Slash series that is exclusive to the Playstation consoles. The first game was released in 2005 for the PS2</dica1>
+				<dica2>Fight your way through many Greek legends and gods seeking  revenge for your slayed family</dica2>
+				<linkimagem>God-of-War</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>World of Warcraft</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2005</ano>
+				<resposta>World of Warcraft</resposta>
+				<linkimagem>World-of-Warcraft</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Angry Birds</nome>
+				<plataforma>iOS/Android/WinPhone/BB</plataforma>
+				<genero>Estratégia/Puzzle</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2009</ano>
+				<resposta>Angry Birds</resposta>
+				<linkimagem>Angry-Birds</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ms Pac Man</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Labirinto</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1982</ano>
+				<resposta>Ms Pac Man</resposta>
+				<linkimagem>Ms-Pac-Man</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Little Big Planet</nome>
+				<plataforma>PS3 / PSVita / PSP</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2008</ano>
+				<resposta>Little Big Planet</resposta>
+				<linkimagem>Little-Big-Planet</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Halo</nome>
+				<plataforma>Xbox</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2001</ano>
+				<resposta>Halo</resposta>
+				<linkimagem>Halo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bioshock</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2007</ano>
+				<resposta>Bioshock</resposta>
+				<dica1>This First-Person Shooter released in 2007 features a range of unique genetic abilities, named Plasmids, that include incinerating and freezing enemies</dica1>
+				<dica2>Encounter Big Daddies and Little Sisters in the underwater city of Rapture</dica2>
+				<linkimagem>Bioshock</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Resident Evil 2</nome>
+				<plataforma>Playstation/N64/PC/Dreamcast</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1998</ano>
+				<resposta>Resident Evil 2</resposta>
+				<linkimagem>Resident-Evil-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sonic the Hedgehog</nome>
+				<plataforma>MegaDrive</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1991</ano>
+				<resposta>Sonic</resposta>
+				<linkimagem>Sonic-the-Hedgehog</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Goldeneye 007 </nome>
+				<plataforma>N64</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1997</ano>
+				<resposta>Goldeneye 007</resposta>
+				<linkimagem>Goldeneye-007</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>RollerCoaster Tycoon</nome>
+				<plataforma>PC</plataforma>
+				<genero>Simulation</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1999</ano>
+				<resposta>RollerCoaster Tycoon</resposta>
+				<linkimagem>RollerCoaster-Tycoon</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Braid</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Plataforma/Puzzle</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2008-2009</ano>
+				<resposta>Braid</resposta>
+				<linkimagem>Braid</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>PONG</nome>
+				<plataforma>Arcade/Atari 2600</plataforma>
+				<genero>Esporte</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1972</ano>
+				<resposta>PONG</resposta>
+				<linkimagem>Pong</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Minecraft</nome>
+				<plataforma>Super Nintendo/Mega Drive</plataforma>
+				<genero>Sandbox</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2011</ano>
+				<resposta>Minecraft</resposta>
+				<linkimagem>Minecraft</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>FarmVille</nome>
+				<plataforma>Facebook</plataforma>
+				<genero>Simulação</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2009</ano>
+				<resposta>Farmville</resposta>
+				<linkimagem>FarmVille</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Donkey Kong</nome>
+				<plataforma>Arcade/ NES</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1981</ano>
+				<resposta>Donkey Kong</resposta>
+				<dica1>This game was Mario's debut, although at the time his name was Jumpman</dica1>
+				<dica2>Universal Studios sued Nintendo because this game had many similarities with the movie King Kong</dica2>
+				<linkimagem>Donkey-Kong</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Animal Crossing</nome>
+				<plataforma>Gamecube</plataforma>
+				<genero>Simulação</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2001</ano>
+				<resposta>Animal Crossing</resposta>
+				<linkimagem>Animal-Crossing</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Lego Star Wars</nome>
+				<plataforma>Xbox / PS2 / PC / GBA / NGC</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2005</ano>
+				<resposta>Lego Star Wars</resposta>
+				<linkimagem>Lego-Star-Wars</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Call of Duty (Series)</nome>
+				<plataforma>PC/DS/Gamecube/Wii/WiiU/PS2/PS3/PS4/Xbox/X360/Xone</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2003</ano>
+				<resposta>Call of Duty</resposta>
+				<linkimagem>Call-of-Duty</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Grand Theft Auto</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1997</ano>
+				<resposta>Grand Theft Auto</resposta>
+				<linkimagem>Grand-Theft-Auto</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Dragon's Lair</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Filme interativo</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1983</ano>
+				<resposta>Dragons Lair</resposta>
+				<linkimagem>Dragons-Lair</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Team Fortress 2</nome>
+				<plataforma>PC</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2007</ano>
+				<resposta>Team Fortress 2</resposta>
+				<linkimagem>Team-Fortress-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Starcraft 2</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2010</ano>
+				<resposta>Starcraft 2</resposta>
+				<linkimagem>Starcraft-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Contra</nome>
+				<plataforma>Arcade/NES</plataforma>
+				<genero>Run and Gun</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1987</ano>
+				<resposta>Contra</resposta>
+				<linkimagem>Contra</linkimagem>
+			</jogo>
+		</level1>
+		<level2>
+			<nome>Beginner</nome>
+			<jogo>
+				<nome>Super Mario 64</nome>
+				<plataforma>N64</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1993</ano>
+				<resposta>Super Mario 64</resposta>
+				<linkimagem>Super-Mario-64</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Duck Hunt</nome>
+				<plataforma>NES</plataforma>
+				<genero>FPS/Lightgun Shooter</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1984</ano>
+				<resposta>Duck Hunt</resposta>
+				<linkimagem>Duck-Hunt</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Banjo Kazooie</nome>
+				<plataforma>N64</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1998</ano>
+				<resposta>Banjo Kazooie</resposta>
+				<dica1>It's a famous Nintendo 64  Action/Platform game made by Rareware and released in 1998</dica1>
+				<dica2>A bear and a bird need to face against a wicked witch</dica2>
+				<linkimagem>Banjo-Kazooie</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>League of Legends</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2009</ano>
+				<resposta>League of Legends</resposta>
+				<linkimagem>League-of-Legends</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mario Party</nome>
+				<plataforma>N64</plataforma>
+				<genero>Party</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1998</ano>
+				<resposta>Mario Party</resposta>
+				<linkimagem>Mario-Party</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Guitar Hero</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ritmo</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2005</ano>
+				<resposta>Guitar Hero</resposta>
+				<linkimagem>Guitar-Hero</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Cut the Rope</nome>
+				<plataforma>iOS/Android</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2010</ano>
+				<resposta>Cut the Rope</resposta>
+				<linkimagem>Cut-the-Rope</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Elder Scrolls 5: Skyrim</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2011</ano>
+				<resposta>Skyrim</resposta>
+				<linkimagem>The-Elder-Scrolls-Skyrim</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pitfall!</nome>
+				<plataforma>Atari 2600</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1982</ano>
+				<resposta>Pitfall</resposta>
+				<linkimagem>Pitfall</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Journey</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Adventure</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2012</ano>
+				<resposta>Journey</resposta>
+				<linkimagem>Journey</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Plants vs Zombies</nome>
+				<plataforma>PC</plataforma>
+				<genero>Tower Defense</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2009</ano>
+				<resposta>Plants vs Zombies</resposta>
+				<linkimagem>Plants-vs-Zombies</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pokemon</nome>
+				<plataforma>Game Boy</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1996</ano>
+				<resposta>Pokemon</resposta>
+				<linkimagem>Pokemon</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bomberman</nome>
+				<plataforma>NES</plataforma>
+				<genero>Labirinto/Estratégia</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1985</ano>
+				<resposta>Bomberman</resposta>
+				<linkimagem>Bomberman</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy 8</nome>
+				<plataforma>Playstation</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1998</ano>
+				<resposta>Final Fantasy 8</resposta>
+				<linkimagem>Final-Fantasy-8</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ninja Gaiden</nome>
+				<plataforma>NES</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1988</ano>
+				<resposta>Ninja Gaiden</resposta>
+				<linkimagem>Ninja-Gaiden</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Addams Family</nome>
+				<plataforma>Super Nintendo /Mega Drive</plataforma>
+				<genero>Aventura/RPG</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1992</ano>
+				<resposta>Addams Family</resposta>
+				<linkimagem>Addams-Family</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ragnarok Online</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2002</ano>
+				<resposta>Ragnarok Online</resposta>
+				<linkimagem>Ragnarok-Online</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mario Paint</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Art tool</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1992</ano>
+				<resposta>Mario Paint</resposta>
+				<linkimagem>Mario-Paint</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Star Fox 64</nome>
+				<plataforma>N64</plataforma>
+				<genero>Rail Shooter</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1997</ano>
+				<resposta>Star Fox 64</resposta>
+				<linkimagem>Star-Fox-64</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mega Man</nome>
+				<plataforma>NES</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1987</ano>
+				<resposta>Mega Man</resposta>
+				<linkimagem>Mega-Man</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Uncharted: Drake's Fortune</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2007</ano>
+				<resposta>Uncharted</resposta>
+				<linkimagem>Uncharted</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bejeweled</nome>
+				<plataforma>Web</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2001</ano>
+				<resposta>Bejeweled</resposta>
+				<linkimagem>Bejeweled</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Wii Sports</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Sports</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2006</ano>
+				<resposta>Wii Sports</resposta>
+				<linkimagem>Wii-Sports</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mario Kart 64</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1992</ano>
+				<resposta>Mario Kart 64</resposta>
+				<linkimagem>Mario-Kart-64</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Lego Batman</nome>
+				<plataforma>PC / Xbox360 / PS2 / PS3 / PSP / NDS / Wii</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2008</ano>
+				<resposta>Lego Batman</resposta>
+				<linkimagem>Lego-Batman</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tom Clancy's Splinter Cell (the first one)</nome>
+				<plataforma>PC/Xbox/PS2/GameCube</plataforma>
+				<genero>Action/Stealth</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2002</ano>
+				<resposta>Splinter Cell</resposta>
+				<linkimagem>Splinter-Cell</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ghostbusters: The Video Game</nome>
+				<plataforma>PC/PS2/PS3/X360/Wii</plataforma>
+				<genero>Ação/Aventura/Third-person shooter</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2009</ano>
+				<resposta>Ghostbusters</resposta>
+				<linkimagem>Ghostbusters</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Aladdin</nome>
+				<plataforma>Super Nintendo/Mega Drive</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1993</ano>
+				<resposta>Aladdin</resposta>
+				<linkimagem>Aladdin</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Portal</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2007</ano>
+				<resposta>Portal</resposta>
+				<linkimagem>Portal</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Donkey Kong Country</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1994</ano>
+				<resposta>Donkey Kong Country</resposta>
+				<linkimagem>Donkey-Kong-Country</linkimagem>
+			</jogo>
+		</level2>
+		<level3>
+			<nome>Getting Warmer</nome>
+			<jogo>
+				<nome>Mario Bros</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1983</ano>
+				<resposta>Mario Bros</resposta>
+				<linkimagem>Mario-Bros</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pump It Up (Series)</nome>
+				<plataforma>Arcade/PC/PS2/Xbox</plataforma>
+				<genero>Ritmo</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1999</ano>
+				<resposta>Pump It Up</resposta>
+				<linkimagem>Pump-It-Up</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mirror's Edge</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/Aventura/Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2008</ano>
+				<resposta>Mirrors Edge</resposta>
+				<linkimagem>Mirrors-Edge</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Asteroids</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1993</ano>
+				<resposta>Asteroids</resposta>
+				<linkimagem>Asteroids</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Castle Crashers</nome>
+				<plataforma>PC/X360/PS3</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2008</ano>
+				<resposta>Castle Crashers</resposta>
+				<linkimagem>Castle-Crashers</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>BattleField (Series)</nome>
+				<plataforma>PC/PS2/XBOX/PS3/X360/PS4/XONE</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2002-2013</ano>
+				<resposta>Battlefield</resposta>
+				<linkimagem>Battlefield</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Yu-Gi-Oh Forbidden Memories</nome>
+				<plataforma>PS1</plataforma>
+				<genero>Card Game/Estratégia</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1999</ano>
+				<resposta>YuGiOh </resposta>
+				<linkimagem>YuGiOh-Forbidden-Memories</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Frogger</nome>
+				<plataforma>Arcade/ Atari 2600</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1981</ano>
+				<resposta>Frogger</resposta>
+				<linkimagem>Frogger</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Age of Empires (Series)</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1997</ano>
+				<resposta>Age of Empires</resposta>
+				<linkimagem>Age-of-Empires</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Dr. Mario</nome>
+				<plataforma>NES</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1990</ano>
+				<resposta>Dr Mario</resposta>
+				<linkimagem>Dr-Mario</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Half-Life 2</nome>
+				<plataforma>PC</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2004</ano>
+				<resposta>Half Life 2</resposta>
+				<linkimagem>Half-Life-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legend of Zelda</nome>
+				<plataforma>NES</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1986</ano>
+				<resposta>The Legend of Zelda</resposta>
+				<linkimagem>The-Legend-of-Zelda</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario Galaxy</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2007</ano>
+				<resposta>Super Mario Galaxy</resposta>
+				<linkimagem>Super-Mario-Galaxy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Excitebike</nome>
+				<plataforma>NES</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1984</ano>
+				<resposta>Excitebike</resposta>
+				<linkimagem>Excitebike</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Castlevania</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1986</ano>
+				<resposta>Castlevania</resposta>
+				<linkimagem>Castlevania</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Counter-Strike</nome>
+				<plataforma>PC</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1999</ano>
+				<resposta>Counter Strike</resposta>
+				<linkimagem>Counter-Strike</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Brain Age: Train Your Brain in Minutes a Day!</nome>
+				<plataforma>DS</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2005</ano>
+				<resposta>Brain Age</resposta>
+				<linkimagem>Brain-Age</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Punch-Out!</nome>
+				<plataforma>Arcade/NES</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1984</ano>
+				<resposta>Punch Out</resposta>
+				<linkimagem>Punch-Out</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>DuckTales</nome>
+				<plataforma>NES</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1989</ano>
+				<resposta>Ducktales</resposta>
+				<linkimagem>DuckTales</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Temple Run</nome>
+				<plataforma>iOS</plataforma>
+				<genero>Endless Runner</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2011</ano>
+				<resposta>Temple Run</resposta>
+				<linkimagem>Temple-Run</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Amnesia: The Dark Descent</nome>
+				<plataforma>PC</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2010</ano>
+				<resposta>Amnesia</resposta>
+				<linkimagem>Amnesia-the-Dark-Descent</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Wii Fit</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Fitness</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2007</ano>
+				<resposta>Wii Fit</resposta>
+				<linkimagem>Wii-Fit</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Metal Slug</nome>
+				<plataforma>Arcade / Neo Geo</plataforma>
+				<genero>Run and Gun</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1996</ano>
+				<resposta>Metal Slug</resposta>
+				<linkimagem>Metal-Slug</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bloons Tower Defense</nome>
+				<plataforma>Web</plataforma>
+				<genero>Tower Defense</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2007</ano>
+				<resposta>Bloons Tower Defense</resposta>
+				<linkimagem>Bloons-Tower-Defense</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Cooking Mama</nome>
+				<plataforma>DS</plataforma>
+				<genero>Simulação/ Mini-Game</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2006</ano>
+				<resposta>Cooking Mama</resposta>
+				<linkimagem>Cooking-Mama</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Sims</nome>
+				<plataforma>PC</plataforma>
+				<genero>Simulation</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2000</ano>
+				<resposta>The Sims</resposta>
+				<linkimagem>The-Sims</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Scriblenauts</nome>
+				<plataforma>DS</plataforma>
+				<genero>Puzzle/Ação</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2009</ano>
+				<resposta>Scribblenauts</resposta>
+				<linkimagem>Scribblenauts</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Phoenix Wright: Ace Attorney</nome>
+				<plataforma>DS</plataforma>
+				<genero>Aventura/Visual novel</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2001</ano>
+				<resposta>Phoenix Wright</resposta>
+				<linkimagem>Phoenix-Wright</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Borderlands</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2009</ano>
+				<resposta>Borderlands</resposta>
+				<linkimagem>Borderlands</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Cabal Online</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2005</ano>
+				<resposta>Cabal Online</resposta>
+				<linkimagem>Cabal</linkimagem>
+			</jogo>
+		</level3>
+		<level4>
+			<nome>Medium</nome>
+			<jogo>
+				<nome>Gears of War</nome>
+				<plataforma>PC/X360</plataforma>
+				<genero>Third-person shooter</genero>
+				<dificuldade>2</dificuldade>
+				<ano>2006</ano>
+				<resposta>Gears of War</resposta>
+				<linkimagem>Gears-of-War</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pikmin</nome>
+				<plataforma>GameCube</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2001</ano>
+				<resposta>Pikmin</resposta>
+				<linkimagem>Pikmin</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tiny Wings</nome>
+				<plataforma>iOS</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2011</ano>
+				<resposta>Tiny Wings</resposta>
+				<linkimagem>Tiny-Wings</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Resident Evil 4</nome>
+				<plataforma>Gamecube/PS2</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2005</ano>
+				<resposta>Resident Evil 4</resposta>
+				<linkimagem>Resident-Evil-4</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario World</nome>
+				<plataforma>Super Nitendo</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1990</ano>
+				<resposta>Super Mario World</resposta>
+				<linkimagem>Super-Mario-World</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>World of Goo</nome>
+				<plataforma>PC/Wii</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2008</ano>
+				<resposta>World of Goo</resposta>
+				<linkimagem>World-of-Goo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Fallout 3</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/RPG</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2008</ano>
+				<resposta>Fallout 3</resposta>
+				<linkimagem>Fallout-3</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Flappy Bird</nome>
+				<plataforma>iOS/ Android</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2013</ano>
+				<resposta>Flappy Bird</resposta>
+				<linkimagem>Flappy-Bird</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Breakout</nome>
+				<plataforma>Arcade / Atari 2600</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1976</ano>
+				<resposta>Breakout</resposta>
+				<linkimagem>Breakout</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mass Effect</nome>
+				<plataforma>X360/PS3/PC</plataforma>
+				<genero>RPG/Shooter</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2007</ano>
+				<resposta>Mass Effect</resposta>
+				<linkimagem>Mass-Effect</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legend of Zelda - Majora's Mask</nome>
+				<plataforma>N64</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2000</ano>
+				<resposta>Majoras Mask</resposta>
+				<linkimagem>The-Legend-of-Zelda-Majoras-Mask</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy 4</nome>
+				<plataforma>SNES</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1991</ano>
+				<resposta>Final Fantasy 4</resposta>
+				<linkimagem>Final-Fantasy-4</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Burnout (series)</nome>
+				<plataforma> PS2, GameCube, XBox, PSP, Nintendo DS, X360, PS3, PC</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2001-2011</ano>
+				<resposta>Burnout</resposta>
+				<linkimagem>Burnout</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Beatles:  Rock Band</nome>
+				<plataforma>PS3/X360/Wii</plataforma>
+				<genero>Ritmo</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2009</ano>
+				<resposta>Beatles Rock Band</resposta>
+				<linkimagem>The-Beatles-Rock-Band</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tetris</nome>
+				<plataforma>Game Boy</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1984</ano>
+				<resposta>Tetris</resposta>
+				<linkimagem>Tetris</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Q*bert</nome>
+				<plataforma>Arcade/Atari2600</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1982</ano>
+				<resposta>QBert</resposta>
+				<linkimagem>QBert</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Left 4 Dead</nome>
+				<plataforma>PC / Xbox 360</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2008</ano>
+				<resposta>Left 4 Dead </resposta>
+				<linkimagem>Left-4-Dead </linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Castle of Illusion Starring Mickey Mouse</nome>
+				<plataforma>Mega Drive</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1990</ano>
+				<resposta>Castle of Illusions</resposta>
+				<linkimagem>Castle-of-Illusions</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Double Dragon</nome>
+				<plataforma>Arcade/NES</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1987</ano>
+				<resposta>Double Dragon</resposta>
+				<linkimagem>Double-Dragon</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Skies of Arcadia</nome>
+				<plataforma>Dreamcast</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2000</ano>
+				<resposta>Skies of Arcadia</resposta>
+				<linkimagem>Skies-of-Arcadia</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Limbo</nome>
+				<plataforma>Xbox 360 / PS3 / PC / PSVita / iOS</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2010</ano>
+				<resposta>Limbo</resposta>
+				<linkimagem>Limbo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Last of Us</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Survival/Action</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2013</ano>
+				<resposta>The Last of Us</resposta>
+				<linkimagem>The-Last-of-Us</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Katamari Damacy</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2004</ano>
+				<resposta>Katamari Damacy</resposta>
+				<linkimagem>Katamari-Damacy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Gunbound</nome>
+				<plataforma>PC</plataforma>
+				<genero>Artillery/Strategy</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2005</ano>
+				<resposta>Gunbound</resposta>
+				<linkimagem>Gunbound</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Star Wars</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Run and Gun</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1992</ano>
+				<resposta>Super Star Wars</resposta>
+				<linkimagem>Super-Star-Wars</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pac Man</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Labirinto</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1980</ano>
+				<resposta>Pac Man</resposta>
+				<linkimagem>Pac-Man</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Metal Gear Solid </nome>
+				<plataforma>Playstation</plataforma>
+				<genero>Ação/Aventura/Stealth</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1998</ano>
+				<resposta>Metal Gear Solid</resposta>
+				<linkimagem>Metal-Gear-Solid</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Rogue Legacy</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2013</ano>
+				<resposta>Rogue Legacy</resposta>
+				<linkimagem>Rogue-Legacy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fight</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1989</ano>
+				<resposta>Final Fight</resposta>
+				<linkimagem>Final-Fight</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Clash of Clans</nome>
+				<plataforma>iOS/Android</plataforma>
+				<genero>Estratégia</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2012</ano>
+				<resposta>Clash of Clans</resposta>
+				<linkimagem>Clash-of-Clans</linkimagem>
+			</jogo>
+		</level4>
+		<level5>
+			<nome>Harder,  Better,  Faster,  Stronger</nome>
+			<jogo>
+				<nome>Diablo</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação/RPG/Hack n Slash</genero>
+				<dificuldade>2</dificuldade>
+				<ano>1996</ano>
+				<resposta>Diablo</resposta>
+				<linkimagem>Diablo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bubble Bobble</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1986</ano>
+				<resposta>Bubble Bobble</resposta>
+				<linkimagem>Bubble-Bobble</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Devil May Cry</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação/Aventura/Hack n Slash</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2001</ano>
+				<resposta>Devil May Cry</resposta>
+				<linkimagem>Devil-May-Cry</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Luigi's Mansion</nome>
+				<plataforma>NGC</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2002</ano>
+				<resposta>Luigis Mansion</resposta>
+				<linkimagem>Luigis-Mansion</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario Bros 2</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1988</ano>
+				<resposta>Super Mario Bros 2</resposta>
+				<linkimagem>Super-Mario-Bros-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Darkstalkers : The Night Warriors/ Vampire: The Night Warriors</nome>
+				<plataforma>Playstation</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1994</ano>
+				<resposta>Darkstalkers</resposta>
+				<linkimagem>Darkstalkers</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy 7</nome>
+				<plataforma>Playstation</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1997</ano>
+				<resposta>Final Fantasy 7</resposta>
+				<linkimagem>Final-Fantasy-7</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Minesweeper</nome>
+				<plataforma>PC</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1960s</ano>
+				<resposta>Minesweeper</resposta>
+				<linkimagem>Minesweeper</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Crayon Physics Deluxe</nome>
+				<plataforma>PC/iOS/Android</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2009</ano>
+				<resposta>Crayon Physics</resposta>
+				<linkimagem>Crayon-Physics-Deluxe</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Missile Command</nome>
+				<plataforma>Arcade/ Atari 2600</plataforma>
+				<genero>Shoot em Up</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1980</ano>
+				<resposta>Missile Command</resposta>
+				<linkimagem>Missile-Command</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mega Man X</nome>
+				<plataforma>SNES</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1993</ano>
+				<resposta>Mega Man X</resposta>
+				<linkimagem>Mega-Man-X</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Achievement Unlocked</nome>
+				<plataforma>Web</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2008</ano>
+				<resposta>Achievement Unlocked</resposta>
+				<linkimagem>Achievement-Unlocked</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Michael Jackson`s Moonwalker</nome>
+				<plataforma>Arcade/MegaDrive/Master System</plataforma>
+				<genero>Beat 'em up/Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1989</ano>
+				<resposta>Moonwalker</resposta>
+				<linkimagem>Michael-Jacksons-Moonwalker</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario World 2: Yoshi's Island</nome>
+				<plataforma>NES/Super Nintendo</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1995</ano>
+				<resposta>Yoshis Island</resposta>
+				<linkimagem>Super-Mario-World-2-Yoshis-Island</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Doom</nome>
+				<plataforma>PC</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1993</ano>
+				<resposta>Doom</resposta>
+				<linkimagem>Doom</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Kirby 64: The Crystal Shards</nome>
+				<plataforma>N64</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2000</ano>
+				<resposta>Kirby 64</resposta>
+				<linkimagem>Kirby-64</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Space Ace</nome>
+				<plataforma>Arcade/PC</plataforma>
+				<genero>Interactive Movie</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1984</ano>
+				<resposta>Space Ace</resposta>
+				<linkimagem>Space-Ace</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>NBA JAM</nome>
+				<plataforma>Arcade/Super Nintendo/MegaDrive</plataforma>
+				<genero>Esporte</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1993</ano>
+				<resposta>NBA Jam</resposta>
+				<linkimagem>NBA-JAM</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Need for Speed</nome>
+				<plataforma>3DO/Playstation/Sega Saturn</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1994</ano>
+				<resposta>Need for Speed</resposta>
+				<linkimagem>Need-For-Speedy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mafia Wars</nome>
+				<plataforma>Facebook</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2008</ano>
+				<resposta>Mafia Wars</resposta>
+				<linkimagem>Mafia-Wars</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Scott Pilgrim vs. the World: The Game</nome>
+				<plataforma>PS3/X360</plataforma>
+				<genero>Beat 'em up/RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2010</ano>
+				<resposta>Scott Pilgrim</resposta>
+				<linkimagem>Scott-Pilgrim</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Perfect Dark</nome>
+				<plataforma>N64</plataforma>
+				<genero>FPS/Stealth</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2000</ano>
+				<resposta>Perfect Dark</resposta>
+				<linkimagem>Perfect-Dark</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Robot Unicorn Attack</nome>
+				<plataforma>Web</plataforma>
+				<genero>Endless Runner</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2010</ano>
+				<resposta>Robot Unicorn Attack</resposta>
+				<linkimagem>Robot-Unicorn-Attack</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legend of Zelda - Twilight Princess</nome>
+				<plataforma>Gamecube/Wii</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2006</ano>
+				<resposta>Twilight Princess</resposta>
+				<linkimagem>The-Legend-of-Zelda-Twilight-Princess</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Harvest Moon</nome>
+				<plataforma>SNES</plataforma>
+				<genero>RPG / Simulação</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1996</ano>
+				<resposta>Harvest Moon</resposta>
+				<linkimagem>Harvest-Moon</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Chu Chu Rocket</nome>
+				<plataforma>Dreamcast</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1999</ano>
+				<resposta>Chu Chu Rocket</resposta>
+				<linkimagem>Chu-Chu-Rocket</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tera Online</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2011</ano>
+				<resposta>Tera Online</resposta>
+				<linkimagem>Tera-Online</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>DOTA 2</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2013</ano>
+				<resposta>DOTA 2</resposta>
+				<linkimagem>DOTA-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>MediEvil</nome>
+				<plataforma>PS1</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1998</ano>
+				<resposta>MediEvil</resposta>
+				<linkimagem>MediEvil</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Paper Mario</nome>
+				<plataforma>N64</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2000</ano>
+				<resposta>Paper Mario</resposta>
+				<linkimagem>Paper-Mario</linkimagem>
+			</jogo>
+		</level5>
+		<level6>
+			<nome>Headshot!</nome>
+			<jogo>
+				<nome>Super Mario Bros 3</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>1</dificuldade>
+				<ano>1988</ano>
+				<resposta>Super Mario Bros 3</resposta>
+				<linkimagem>Super-Mario-Bros-3</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sim City 2000</nome>
+				<plataforma>PC</plataforma>
+				<genero>Simulation</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1994</ano>
+				<resposta>Sim City 2000</resposta>
+				<linkimagem>Sim-City-2000</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Fatal Frame 2: Crimson Butterfly/ Project Zero 2: Crimson Butterfly</nome>
+				<plataforma>PS2/XBOX</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2001</ano>
+				<resposta>Fatal Frame </resposta>
+				<linkimagem>Fatal-Frame-2 </linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Top Gear</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1992</ano>
+				<resposta>Top Gear</resposta>
+				<linkimagem>Top-Gear</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Spore</nome>
+				<plataforma>PC</plataforma>
+				<genero>God Game/Simulation/RTS</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2008</ano>
+				<resposta>Spore</resposta>
+				<linkimagem>Spore</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Age of Mythology (Series)</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2002</ano>
+				<resposta>Age of Mythology</resposta>
+				<linkimagem>Age-of-Mythology</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy 10</nome>
+				<plataforma>Playstation 2</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2001</ano>
+				<resposta>Final Fantasy 10</resposta>
+				<linkimagem>Final-Fantasy-10</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Dark Souls</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/RPG</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2011</ano>
+				<resposta>Dark Souls</resposta>
+				<linkimagem>Dark-Souls</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ice Climber</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1985</ano>
+				<resposta>Ice Climber</resposta>
+				<linkimagem>Ice-Climber</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Hitman</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2000</ano>
+				<resposta>Hitman</resposta>
+				<linkimagem>Hitman</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Okami</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2006</ano>
+				<resposta>Okami</resposta>
+				<linkimagem>Okami</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Jeopardy</nome>
+				<plataforma>NES</plataforma>
+				<genero>Quiz</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1987</ano>
+				<resposta>Jeopardy</resposta>
+				<linkimagem>Jeopardy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Candy Crush Saga</nome>
+				<plataforma>Facebook/iOS/Android</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2012</ano>
+				<resposta>Candy Crush Saga</resposta>
+				<linkimagem>Candy-Crush</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Command and Conquer</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1995</ano>
+				<resposta>Command and Conquer</resposta>
+				<linkimagem>Command-and-Conquer</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>No More Heroes</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Ação/Aventura/Beat em up</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2007</ano>
+				<resposta>No More Heroes</resposta>
+				<linkimagem>No-More-Heroes</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Patapon</nome>
+				<plataforma>PSP</plataforma>
+				<genero>Ritmo</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2007</ano>
+				<resposta>Patapon</resposta>
+				<linkimagem>Patapon</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mega Man Legends</nome>
+				<plataforma>Playstation</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1997</ano>
+				<resposta>Mega Man Legends</resposta>
+				<linkimagem>Mega-Man-Legends</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Alex Kidd in Miracle World</nome>
+				<plataforma>Master System</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1986</ano>
+				<resposta>Alex Kidd</resposta>
+				<linkimagem>Alex-Kidd-in-Miracle-World</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Secret of Monkey Island</nome>
+				<plataforma>PC</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1990</ano>
+				<resposta>Secret of Monkey Island</resposta>
+				<linkimagem>The-Secret-of-Monkey-Island</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legend of Zelda - A Link to the Past</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1991</ano>
+				<resposta>A Link to the Past</resposta>
+				<linkimagem>The-Legend-of-Zelda-A-Link-to-the-Past</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Rebuild</nome>
+				<plataforma>Web</plataforma>
+				<genero>Estratégia</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2011</ano>
+				<resposta>Rebuild</resposta>
+				<linkimagem>Rebuild</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Civilization</nome>
+				<plataforma>PC</plataforma>
+				<genero>Estratégia</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1991</ano>
+				<resposta>Civilization</resposta>
+				<linkimagem>Civilization</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Prince of Persia</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1989</ano>
+				<resposta>Prince of Persia</resposta>
+				<linkimagem>Prince-of-Persia</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Kingdom Hearts</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação / RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2002</ano>
+				<resposta>Kingdom Hearts</resposta>
+				<linkimagem>Kingdom-Hearts</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Machinarium</nome>
+				<plataforma>PC / PS3 / PSVita / iPad2 / BlackBerry / Android</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2009</ano>
+				<resposta>Machinarium</resposta>
+				<linkimagem>Machinarium</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Battletoads</nome>
+				<plataforma>NES</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1991</ano>
+				<resposta>Battletoads</resposta>
+				<linkimagem>Battletoads</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Metroid Prime</nome>
+				<plataforma>Gamecube</plataforma>
+				<genero>FPS/Aventura</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2002</ano>
+				<resposta>Metroid Prime</resposta>
+				<linkimagem>Metroid-Prime</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Metal Gear Solid 4: Guns of the Patriots</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Ação/Aventura/Stealth</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2008</ano>
+				<resposta>Metal Gear Solid 4</resposta>
+				<linkimagem>Metal-Gear-Solid-4</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Samba de Amigo</nome>
+				<plataforma>Arcade/Dreamcast</plataforma>
+				<genero>Music</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1999</ano>
+				<resposta>Samba de Amigo</resposta>
+				<linkimagem>Samba-de-Amigo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Surgeon Simulator</nome>
+				<plataforma>PC</plataforma>
+				<genero>Simulation</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2013</ano>
+				<resposta>Surgeon Simulator</resposta>
+				<linkimagem>Surgeon-Simulator</linkimagem>
+			</jogo>
+		</level6>
+		<level7>
+			<nome>Expert</nome>
+			<jogo>
+				<nome>Far Cry 3</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2012</ano>
+				<resposta>Far Cry 3</resposta>
+				<linkimagem>Far-Cry-3</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>FEZ</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2012</ano>
+				<resposta>FEZ</resposta>
+				<linkimagem>FEZ</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario 3D World</nome>
+				<plataforma>Wii U</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2013</ano>
+				<resposta>Super Mario 3D World</resposta>
+				<linkimagem>Super-Mario-3D-World</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ratchet and Clank</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2002</ano>
+				<resposta>Ratchet and Clank</resposta>
+				<linkimagem>Ratchet-and-Clank</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Fat Princess</nome>
+				<plataforma>PS3/PSP</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2009</ano>
+				<resposta>Fat Princess</resposta>
+				<linkimagem>Fat-Princess</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Duke Nukem 3D</nome>
+				<plataforma>PC/N64/Mega Drive</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1996</ano>
+				<resposta>Duke Nukem 3D</resposta>
+				<linkimagem>Duke-Nukem-3D</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Lineage II</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2003</ano>
+				<resposta>Lineage 2</resposta>
+				<linkimagem>Lineage-2</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Forza Motorsport</nome>
+				<plataforma>Xbox</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2005</ano>
+				<resposta>Forza Motorsport</resposta>
+				<linkimagem>Forza-Motorsport</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Diddy Kong Racing</nome>
+				<plataforma>N64</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1997</ano>
+				<resposta>Diddy Kong Racing</resposta>
+				<linkimagem>Diddy-Kong-Racing</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>F-Zero</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1990</ano>
+				<resposta>F Zero</resposta>
+				<linkimagem>F-Zero</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Silent Hill</nome>
+				<plataforma>PS1</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1999</ano>
+				<resposta>Silent Hill</resposta>
+				<linkimagem>Silent-Hill</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sunset Riders</nome>
+				<plataforma>Arcade/Super Nintendo/MegaDrive</plataforma>
+				<genero>Run and Gun</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1991</ano>
+				<resposta>Sunset Riders</resposta>
+				<linkimagem>Sunset-Riders</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Kirby Super Star</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1996</ano>
+				<resposta>Kirby Super Star</resposta>
+				<linkimagem>Kirby-Super-Star</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Thief the Dark Project</nome>
+				<plataforma>PC</plataforma>
+				<genero>Stealth</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1998</ano>
+				<resposta>Thief</resposta>
+				<linkimagem>Thief-The-Dark-Project</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Heavy Rain</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2010</ano>
+				<resposta>Heavy Rain</resposta>
+				<linkimagem>Heavy-Rain</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>I Wanna Be the Guy</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2007</ano>
+				<resposta>I Wanna Be The Guy</resposta>
+				<linkimagem>I-Wanna-Be-The-Guy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Kaboom!</nome>
+				<plataforma>Atari 2600</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1981</ano>
+				<resposta>Kaboom</resposta>
+				<linkimagem>Kaboom</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ghosts 'n Goblins</nome>
+				<plataforma>Arcade/ NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1985</ano>
+				<resposta>Ghosts n Goblins</resposta>
+				<linkimagem>Ghosts-n-Goblins</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Myst</nome>
+				<plataforma>PC</plataforma>
+				<genero>Point-and-Click Adventure/Puzzle</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1993</ano>
+				<resposta>Myst</resposta>
+				<linkimagem>Myst</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Adventure Island</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1986</ano>
+				<resposta>Adventure Island</resposta>
+				<linkimagem>Adventure-Island</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Where's my Water</nome>
+				<plataforma>iOS/Android/WinPhone/BB</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2011</ano>
+				<resposta>Wheres my Water</resposta>
+				<linkimagem>Wheres-My-Water</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy</nome>
+				<plataforma>NES</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1987</ano>
+				<resposta>Final Fantasy</resposta>
+				<linkimagem>Final-Fantasy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Grand Fantasia</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2009</ano>
+				<resposta>Grand Fantasia</resposta>
+				<linkimagem>Grand-Fantasia</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Infamous</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2009</ano>
+				<resposta>Infamous</resposta>
+				<linkimagem>Infamous</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Deus Ex</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação/ RPG</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2000</ano>
+				<resposta>Deus Ex</resposta>
+				<linkimagem>Deus-Ex</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Flashback:  The Quest for Identity</nome>
+				<plataforma>PC/ Mega Drive</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1992</ano>
+				<resposta>Flashback</resposta>
+				<linkimagem>Flashback</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Dead Space</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2008</ano>
+				<resposta>Dead Space</resposta>
+				<linkimagem>Dead-Space</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bastion</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2001</ano>
+				<resposta>Bastion</resposta>
+				<linkimagem>Bastion</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Phantasy Star Online</nome>
+				<plataforma>Dreamcast</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>8</dificuldade>
+				<ano>200</ano>
+				<resposta>Phantasy Star Online</resposta>
+				<linkimagem>Phantasy-Star-Online</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Shadow of the Colossus</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2005</ano>
+				<resposta>Shadow of the Colossus</resposta>
+				<linkimagem>Shadow-of-the-Colossus</linkimagem>
+			</jogo>
+		</level7>
+		<level8>
+			<nome>Pentakill!</nome>
+			<jogo>
+				<nome>Toss the Turtle</nome>
+				<plataforma>Web</plataforma>
+				<genero>Toss Game</genero>
+				<dificuldade>3</dificuldade>
+				<ano>2009</ano>
+				<resposta>Toss the Turtle</resposta>
+				<linkimagem>Toss-the-Turtle</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>E.T. The Extraterrestrial</nome>
+				<plataforma>Atari 2600</plataforma>
+				<genero>Aventura</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1982</ano>
+				<resposta>ET </resposta>
+				<linkimagem>ET-The-Extraterrestrial</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario Land</nome>
+				<plataforma>Game Boy</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1989</ano>
+				<resposta>Super Mario Land</resposta>
+				<linkimagem>Super-Mario-Land</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Advance Wars</nome>
+				<plataforma>GBA</plataforma>
+				<genero>Estratégia</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2001</ano>
+				<resposta>Advance Wars</resposta>
+				<linkimagem>Advance-Wars</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Dead Rising</nome>
+				<plataforma>Xbox</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2006</ano>
+				<resposta>Dead Rising</resposta>
+				<linkimagem>Dead-Rising</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Smite</nome>
+				<plataforma>PC</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2014</ano>
+				<resposta>Smite</resposta>
+				<linkimagem>Smite</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Gran Turismo</nome>
+				<plataforma>PS1</plataforma>
+				<genero>Corrida</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1997</ano>
+				<resposta>Gran Turismo</resposta>
+				<linkimagem>Gran-Turismo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Grim Fandango</nome>
+				<plataforma>PC</plataforma>
+				<genero>Aventura</genero>
+				<dificuldade>9</dificuldade>
+				<ano>1998</ano>
+				<resposta>Grim Fandango</resposta>
+				<linkimagem>Grim-Fandango</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Manhunt</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Stealth</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2003</ano>
+				<resposta>Manhunt</resposta>
+				<linkimagem>Manhunt</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Link - The Faces of Evil</nome>
+				<plataforma>Phillips CD-i</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1993</ano>
+				<resposta>Link the Faces of Evil</resposta>
+				<linkimagem>Link-Faces-of-Evil</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>NiGTHS into Dreams</nome>
+				<plataforma>Sega Saturn</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1996</ano>
+				<resposta>NiGHTS Into Dreams</resposta>
+				<linkimagem>Nights-Into-Dreams</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy Tactics Advance</nome>
+				<plataforma>GBA</plataforma>
+				<genero>RPG Tático</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2003</ano>
+				<resposta>Final Fantasy Tactics</resposta>
+				<linkimagem>Final-Fantasy-Tactics-Adv</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Street Fighter 2</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1987</ano>
+				<resposta>Street Fighter 2</resposta>
+				<linkimagem>Street-Fighter</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Shaq Fu</nome>
+				<plataforma>Super Nintendo/Mega Drive</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1994</ano>
+				<resposta>Shaq Fu</resposta>
+				<linkimagem>Shaq-Fu</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Conker's Bad Fur Day</nome>
+				<plataforma>N64</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2001</ano>
+				<resposta>Conkers Bad Fur Day</resposta>
+				<linkimagem>Conkers-Bad-Fur-Day</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Heavenly Sword</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Hack n Slash</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2007</ano>
+				<resposta>Heavenly Sword</resposta>
+				<linkimagem>Heavenly-Sword</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Superman 64</nome>
+				<plataforma>N64</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1999</ano>
+				<resposta>Superman 64</resposta>
+				<linkimagem>Superman-64</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Paper Mario</nome>
+				<plataforma>Wii</plataforma>
+				<genero>RPG/Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2007</ano>
+				<resposta>Super Paper Mario</resposta>
+				<linkimagem>Super-Paper-Mario</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tekken</nome>
+				<plataforma>Arcade/PS1</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1994</ano>
+				<resposta>Tekken</resposta>
+				<linkimagem>Tekken</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Centipede</nome>
+				<plataforma>Arcade/ Atari 2600</plataforma>
+				<genero>Shoot 'em Up</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1981</ano>
+				<resposta>Centipede</resposta>
+				<linkimagem>Centipede</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Beyond Good and Evil</nome>
+				<plataforma>PC/PS2/XBOX/Gamecube</plataforma>
+				<genero>Ação/Aventura/Stealth</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2003</ano>
+				<resposta>Beyond Good and Evil</resposta>
+				<linkimagem>Beyond-Good-and-Evil</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Chrono Trigger</nome>
+				<plataforma>SNES</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1995</ano>
+				<resposta>Chrono Trigger</resposta>
+				<linkimagem>Chrono-Trigger</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Desktop Tower Defense</nome>
+				<plataforma>Web</plataforma>
+				<genero>Tower Defense</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2007</ano>
+				<resposta>Desktop Tower Defense</resposta>
+				<linkimagem>Desktop-Tower-Defense</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sam &amp; Max Hit the Road</nome>
+				<plataforma>PC</plataforma>
+				<genero>Aventura</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1993</ano>
+				<resposta>Sam and Max</resposta>
+				<linkimagem>Sam-and-Max</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tecmo Bowl</nome>
+				<plataforma>Arcade/NES</plataforma>
+				<genero>Esporte</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1988</ano>
+				<resposta>Tecmo Bowl</resposta>
+				<linkimagem>Tecmo-Bowl</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bayonetta</nome>
+				<plataforma>Ps3/X360</plataforma>
+				<genero>Ação/ Hack n Slash</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2009</ano>
+				<resposta>Bayonetta</resposta>
+				<linkimagem>Bayonetta</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Meat Boy</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2010</ano>
+				<resposta>Super Meat Boy</resposta>
+				<linkimagem>Super-Meat-Boy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mega Man Soccer</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Esporte</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1994</ano>
+				<resposta>Mega Man Soccer</resposta>
+				<linkimagem>Mega-Man-Soccer</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Darkness</nome>
+				<plataforma>PS3/X360</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2007</ano>
+				<resposta>The Darkness</resposta>
+				<linkimagem>The-Darkness</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Golden Axe</nome>
+				<plataforma>Arcade/Megadrive</plataforma>
+				<genero>Hack n Slash</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1989</ano>
+				<resposta>Golden Axe</resposta>
+				<linkimagem>Golden-Axe</linkimagem>
+			</jogo>
+		</level8>
+		<level9>
+			<nome>How far can you go?</nome>
+			<jogo>
+				<nome>Jak and Daxter</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2001</ano>
+				<resposta>Jak and Daxter</resposta>
+				<linkimagem>Jak-and-Daxter</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Final Fantasy 6</nome>
+				<plataforma>SNES</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1994</ano>
+				<resposta>Final Fantasy 6</resposta>
+				<linkimagem>Final-Fantasy-6</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Flower</nome>
+				<plataforma>PS3</plataforma>
+				<genero>???</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2009</ano>
+				<resposta>Flower</resposta>
+				<linkimagem>Flower</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Worms</nome>
+				<plataforma>PC</plataforma>
+				<genero>Artillery/Strategy</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1995</ano>
+				<resposta>Worms</resposta>
+				<linkimagem>Worms</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Elevator Action</nome>
+				<plataforma>Arcade/ Atari 2600</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1983</ano>
+				<resposta>Elevator Action</resposta>
+				<linkimagem>Elevator-Action</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Doodle God</nome>
+				<plataforma>iOS/Web</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2010</ano>
+				<resposta>Doodle God</resposta>
+				<linkimagem>Doodle-God</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Freddi Fish 3: The Case of the Stolen Conch Shell</nome>
+				<plataforma>PC</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1998</ano>
+				<resposta>Freddi Fish</resposta>
+				<linkimagem>Freddi-Fish</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>PaRappa the Rapper</nome>
+				<plataforma>Playstation</plataforma>
+				<genero>Ritmo</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1996</ano>
+				<resposta>Parappa the Rapper</resposta>
+				<linkimagem>Parappa-the-Rapper</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Alien Hominid</nome>
+				<plataforma>Web</plataforma>
+				<genero>Run and Gun</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2002</ano>
+				<resposta>Alien Hominid</resposta>
+				<linkimagem>Alien-Hominid</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Zombie Ate my Neighbors</nome>
+				<plataforma>Super Nintendo/Mega Drive</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1993</ano>
+				<resposta> Zombies Ate My Neighbors</resposta>
+				<linkimagem> Zombies-Ate-My-Neighbors</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Hotel Dusk</nome>
+				<plataforma>DS</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2007</ano>
+				<resposta>Hotel Dusk</resposta>
+				<linkimagem>Hotel-Dusk</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Elder Scrolls 4: Oblivion</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/RPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2006</ano>
+				<resposta>Oblivion</resposta>
+				<linkimagem>The-Elder-Scrolls-Oblivion</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legend of Zelda - Wind Waker</nome>
+				<plataforma>GameCube</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2002</ano>
+				<resposta>Wind Waker</resposta>
+				<linkimagem>The-Legend-of-Zelda-Wind-Waker</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Touhou</nome>
+				<plataforma>PC</plataforma>
+				<genero>Shoot 'em Up</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1996</ano>
+				<resposta>Touhou</resposta>
+				<linkimagem>Touhou</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Diner Dash</nome>
+				<plataforma>PC/iOS/Android/X360/PS3/Wii/DS</plataforma>
+				<genero>Estratégia</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2004</ano>
+				<resposta>Diner Dash</resposta>
+				<linkimagem>Diner-Dash</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Donald in Maui Mallard/Maui Mallard in Cold Shadow </nome>
+				<plataforma>Mega Drive/ Super Nintendo</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1995</ano>
+				<resposta>Cold Shadow</resposta>
+				<linkimagem>Donald-in-Maui-Mallard</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Black and White</nome>
+				<plataforma>PC</plataforma>
+				<genero>Simulação/God Game</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2001</ano>
+				<resposta>Black and White</resposta>
+				<linkimagem>Black-and-White</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Leisure Suit Larry in the Land of the Lounge Lizards</nome>
+				<plataforma>PC</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1987</ano>
+				<resposta>Leisure Suit Larry</resposta>
+				<linkimagem>Leisure-Suit-Larry</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Killer Instinct</nome>
+				<plataforma>Arcade / SNES</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1994 / 1995</ano>
+				<resposta>Killer Instinct</resposta>
+				<linkimagem>Killer-Instinct</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Psychonauts</nome>
+				<plataforma>PC/Xbox/PS2</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2005</ano>
+				<resposta>Psychonauts</resposta>
+				<linkimagem>Psychonauts</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Smash Bros</nome>
+				<plataforma>N64</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1999</ano>
+				<resposta>Super Smash Bros</resposta>
+				<linkimagem>Super-Smash-Bros</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Viewtiful Joe</nome>
+				<plataforma>GameCube/PS2</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2003</ano>
+				<resposta>Viewtiful Joe</resposta>
+				<linkimagem>Viewtiful-Joe</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Cave Story</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2004</ano>
+				<resposta>Cave Story</resposta>
+				<linkimagem>Cave-Story</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Goof Troop</nome>
+				<plataforma>SNES</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1993</ano>
+				<resposta>Goof Troop</resposta>
+				<linkimagem>Goof-Troop</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Iris Online</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2010</ano>
+				<resposta>Iris Online</resposta>
+				<linkimagem>Iris-Online</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Jet Force Gemini</nome>
+				<plataforma>N64</plataforma>
+				<genero>Third-person shooter</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1999</ano>
+				<resposta>Jet Force Gemini</resposta>
+				<linkimagem>Jet-Force-Gemini</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Rhythm Heaven</nome>
+				<plataforma>DS</plataforma>
+				<genero>Rhythm</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2008</ano>
+				<resposta>Rhythm Heaven</resposta>
+				<linkimagem>Rhythm-Heaven</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ape Escape</nome>
+				<plataforma>Playstation</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>9</dificuldade>
+				<ano>1999</ano>
+				<resposta>Ape Escape</resposta>
+				<linkimagem>Ape-Escape</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Killzone</nome>
+				<plataforma>PS2</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2004</ano>
+				<resposta>Killzone</resposta>
+				<linkimagem>Killzone</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Shenmue</nome>
+				<plataforma>Dreamcast</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1999</ano>
+				<resposta>Shenmue</resposta>
+				<linkimagem>Shenmue</linkimagem>
+			</jogo>
+		</level9>
+		<level10>
+			<nome>Gotta go fast!</nome>
+			<jogo>
+				<nome>Crazy Taxi</nome>
+				<plataforma>Arcade/Dreamcast</plataforma>
+				<genero>Ação/Corrida</genero>
+				<dificuldade>4</dificuldade>
+				<ano>1999</ano>
+				<resposta>Crazy Taxi</resposta>
+				<linkimagem>Crazy-Taxi</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bionic Commando</nome>
+				<plataforma>Arcade/NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1987/1988</ano>
+				<resposta>Bionic Commando</resposta>
+				<linkimagem>Bionic-Commando</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mario's Picross</nome>
+				<plataforma>Game Boy</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1995</ano>
+				<resposta>Marios Picross</resposta>
+				<linkimagem>Marios-Picross</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ice Hockey</nome>
+				<plataforma>Atari 2600</plataforma>
+				<genero>Esporte</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1981</ano>
+				<resposta>Ice Hockey</resposta>
+				<linkimagem>Ice-Hockey</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Perfect World</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2005</ano>
+				<resposta>Perfect World</resposta>
+				<linkimagem>Perfect-World</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Darksiders</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/Aventura/Hack n Slash</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2010</ano>
+				<resposta>Darksiders</resposta>
+				<linkimagem>Darksiders</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Shadow of Rome</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2005</ano>
+				<resposta>Shadow of Rome</resposta>
+				<linkimagem>Shadow-of-Rome</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Brütal Legend</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>Ação/Aventura/RTS</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2009</ano>
+				<resposta>Brutal Legend</resposta>
+				<linkimagem>Brutal-Legend</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Rolando</nome>
+				<plataforma>iOS</plataforma>
+				<genero>Aventura/Puzzle</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2008</ano>
+				<resposta>Rolando</resposta>
+				<linkimagem>Rolando</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Metroid</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Action-adventure</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1994</ano>
+				<resposta>Super Metroid</resposta>
+				<linkimagem>Super-Metroid</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Crysis</nome>
+				<plataforma>PC/PS3/X360</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2007</ano>
+				<resposta>Crysis</resposta>
+				<linkimagem>Crysis</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Indigo Prophecy / Farenheit</nome>
+				<plataforma>PS2/Xbox/PC</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2005</ano>
+				<resposta>Indigo Prophecy</resposta>
+				<linkimagem>Indigo-Prophecy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Star Wars Force Unleashed</nome>
+				<plataforma>PS2/PS3/Wii/X360</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2008</ano>
+				<resposta>Force Unleashed</resposta>
+				<linkimagem>Star-Wars-Force-Unleashed</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Jurassic Park</nome>
+				<plataforma>NES</plataforma>
+				<genero>Top-Down Shooter</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1993</ano>
+				<resposta>Jurassic Park</resposta>
+				<linkimagem>Jurassic-Park</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Monkey Ball</nome>
+				<plataforma>Arcade/GameCube</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2001</ano>
+				<resposta>Super Monkey Ball</resposta>
+				<linkimagem>Super-Monkey-Ball</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Combat Arms</nome>
+				<plataforma>PC</plataforma>
+				<genero>FPS</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2008</ano>
+				<resposta>Combat Arms</resposta>
+				<linkimagem>Combat-Arms</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Shin Megami Tensei: Persona 4</nome>
+				<plataforma>PS2</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2008</ano>
+				<resposta>Persona 4</resposta>
+				<linkimagem>Shin-Megami-Tensei-Persona-4</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Teenage Mutant Ninja Turtles: Turtles in Time</nome>
+				<plataforma>Arcade/Super Nintendo</plataforma>
+				<genero>  Side-scrolling/Beat 'em up</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1991</ano>
+				<resposta>Turtles in Time</resposta>
+				<linkimagem>Teenage-Mutant-Ninja-Turtles-Turtles-in-Time</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ready 2 Rumble Boxing</nome>
+				<plataforma>Dreamcast/N64/GBC/PS1</plataforma>
+				<genero>Sports/Luta</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1999</ano>
+				<resposta>Ready 2 Rumble Boxing</resposta>
+				<linkimagem>Ready-2-Rumble</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Night Trap</nome>
+				<plataforma>Sega CD</plataforma>
+				<genero>Filme interativo</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1992</ano>
+				<resposta>Night Trap</resposta>
+				<linkimagem>Night-Trap</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>BurgerTime</nome>
+				<plataforma>Arcade/ Atari 2600</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1982</ano>
+				<resposta>BurgerTime</resposta>
+				<linkimagem>BurgerTime</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Torchlight</nome>
+				<plataforma>PC</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2009</ano>
+				<resposta>Torchlight</resposta>
+				<linkimagem>Torchlight</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Playstation All Stars Battle Royale</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>4</dificuldade>
+				<ano>2012</ano>
+				<resposta>Playstation All Stars</resposta>
+				<linkimagem>Playstation-All-Stars-Battle-Royale</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Wario Ware, Inc: Mega Microgame$!</nome>
+				<plataforma>GBA</plataforma>
+				<genero>Minigames</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2003</ano>
+				<resposta>WarioWare</resposta>
+				<linkimagem>WarioWare</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Octodad: Dadliest Catch</nome>
+				<plataforma>PC</plataforma>
+				<genero>Aventura</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2014</ano>
+				<resposta>Octodad</resposta>
+				<linkimagem>Octodad</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Wrecking Crew</nome>
+				<plataforma>NES</plataforma>
+				<genero>Action/Puzzle</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1985</ano>
+				<resposta>Wrecking Crew</resposta>
+				<linkimagem>Wrecking-Crew</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Chip n Dale Rescue Rangers</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1990</ano>
+				<resposta>Chip n Dale</resposta>
+				<linkimagem>Chip-n-Dale-Rescue-Rangers</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Super Mario RPG: Legend of the Seven Stars</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1996</ano>
+				<resposta>Super Mario RPG</resposta>
+				<linkimagem>Super-Mario-RPG</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ico</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2001</ano>
+				<resposta>Ico</resposta>
+				<linkimagem>Ico</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pandemic 2</nome>
+				<plataforma>Web</plataforma>
+				<genero>RTS</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2008</ano>
+				<resposta>Pandemic 2</resposta>
+				<linkimagem>Pandemic-2</linkimagem>
+			</jogo>
+		</level10>
+		<level11>
+			<nome>Godlike</nome>
+			<jogo>
+				<nome>Sly Cooper and the Thievius Raccoonus</nome>
+				<plataforma>PS2</plataforma>
+				<genero>Plataforma/Stealth</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2002</ano>
+				<resposta>Sly Cooper</resposta>
+				<linkimagem>Sly-Cooper</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Bully: Scholarship Edition</nome>
+				<plataforma>PC/PS2/X360/Wii</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2006</ano>
+				<resposta>Bully</resposta>
+				<linkimagem>Bully</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>SCP - Containment Breach</nome>
+				<plataforma>PC</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2012</ano>
+				<resposta>SCP Containment Breach</resposta>
+				<linkimagem>SCP-Containment-Breach</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Zelda 2 - The Adventure of Link</nome>
+				<plataforma>NES</plataforma>
+				<genero>Ação/RPG</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1988</ano>
+				<resposta>Zelda 2 </resposta>
+				<linkimagem>Zelda-2-The-Adventure-of-Link</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Lemmings</nome>
+				<plataforma>PC</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1991</ano>
+				<resposta>Lemmings</resposta>
+				<linkimagem>Lemmings</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Professor Layton</nome>
+				<plataforma>DS</plataforma>
+				<genero>Aventura/Puzzle</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2007</ano>
+				<resposta>Professor Layton</resposta>
+				<linkimagem>Professor-Layton</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Tibia</nome>
+				<plataforma>PC</plataforma>
+				<genero>MMORPG</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1997</ano>
+				<resposta>Tibia</resposta>
+				<linkimagem>Tibia</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Devil World</nome>
+				<plataforma>NES</plataforma>
+				<genero>Labirinto</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1984</ano>
+				<resposta>Devil World</resposta>
+				<linkimagem>Devil-World</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Comix Zone</nome>
+				<plataforma>Mega Drive</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1995</ano>
+				<resposta>Comix Zone</resposta>
+				<linkimagem>Comix-Zone</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>MadWorld</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2009</ano>
+				<resposta>MadWorld</resposta>
+				<linkimagem>MadWorld</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Outlast</nome>
+				<plataforma>PC/PS4</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>5</dificuldade>
+				<ano>2013</ano>
+				<resposta>Outlast</resposta>
+				<linkimagem>Outlast</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Legend of Mana (Series)</nome>
+				<plataforma>PS1</plataforma>
+				<genero>Ação / RPG</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1999</ano>
+				<resposta>Legend of Mana</resposta>
+				<linkimagem>Legend-of-Mana</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Wonderful 101</nome>
+				<plataforma>Wii U</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2013</ano>
+				<resposta>The Wonderful 101</resposta>
+				<linkimagem>The-Wonderful-101</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Captain Commando</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Beat 'em Up</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1991</ano>
+				<resposta>Captain Commando</resposta>
+				<linkimagem>Captain-Commando</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Twisted Metal</nome>
+				<plataforma>PS1</plataforma>
+				<genero>Combate veicular</genero>
+				<dificuldade>5</dificuldade>
+				<ano>1995</ano>
+				<resposta>Twisted Metal</resposta>
+				<linkimagem>Twisted-Metal</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Spelunky</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2009</ano>
+				<resposta>Spelunky</resposta>
+				<linkimagem>Spelunky</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Mainichi Issho</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Pet</genero>
+				<dificuldade>10</dificuldade>
+				<ano>2008</ano>
+				<resposta>Mainchi Issho</resposta>
+				<linkimagem>Mainchi-Issho</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Guilty Gear X</nome>
+				<plataforma>Arcade / Various</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2000</ano>
+				<resposta>Guilty Gear X</resposta>
+				<linkimagem>Guilty-Gear-X</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Earthworm Jim</nome>
+				<plataforma>Mega Drive/ Super Nintendo</plataforma>
+				<genero>Plataforma/Run and Gun</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1994</ano>
+				<resposta>Earthworm Jim</resposta>
+				<linkimagem>Earthworm-Jim</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sin and Punishment</nome>
+				<plataforma>N64</plataforma>
+				<genero>Bullet Hell Shooter</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2000</ano>
+				<resposta>Sin and Punishment</resposta>
+				<linkimagem>Sin-and-Punishment</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Closure</nome>
+				<plataforma>PC/PS3</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2012</ano>
+				<resposta>Closure</resposta>
+				<linkimagem>Closure</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Upgrade Complete</nome>
+				<plataforma>Web</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2009</ano>
+				<resposta>Upgrade Complete</resposta>
+				<linkimagem>Upgrade-Complete</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Pocky and Rocky</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Scrolling shooter</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1992</ano>
+				<resposta>Pocky and Rocky</resposta>
+				<linkimagem>Pocky-and-Rocky</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>River City Ransom</nome>
+				<plataforma>PC/NES</plataforma>
+				<genero>Beat 'em up/RPG</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1989</ano>
+				<resposta>River City Ransom</resposta>
+				<linkimagem>River-City-Ransom</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Zero Wing</nome>
+				<plataforma>Arcade/Mega Drive</plataforma>
+				<genero>Shoot 'em Up</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1989</ano>
+				<resposta>Zero Wing</resposta>
+				<linkimagem>Zero-Wing</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Kingdom Rush</nome>
+				<plataforma>Web</plataforma>
+				<genero>Tower Defense</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2011</ano>
+				<resposta>Kingdom Rush</resposta>
+				<linkimagem>Kingdom-Rush</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Gradius</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Shoot ' em Up</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1985</ano>
+				<resposta>Gradius</resposta>
+				<linkimagem>Gradius</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Blueberry Garden</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma/Puzzle</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2009</ano>
+				<resposta>Blueberry Garden</resposta>
+				<linkimagem>Blueberry-Garden</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Jet Set Radio</nome>
+				<plataforma>Dreamcast</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2000</ano>
+				<resposta>Jet Set Radio</resposta>
+				<linkimagem>Jet-Set-Radio</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Full Throttle</nome>
+				<plataforma>PC</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1995</ano>
+				<resposta>Full Throttle</resposta>
+				<linkimagem>Full-Throttle</linkimagem>
+			</jogo>
+		</level11>
+		<level12>
+			<nome>Impossible</nome>
+			<jogo>
+				<nome>Ristar</nome>
+				<plataforma>MegaDrive</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1995</ano>
+				<resposta>Ristar</resposta>
+				<linkimagem>Ristar</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Legendary Starfy</nome>
+				<plataforma>GBA</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2002</ano>
+				<resposta>The Legendary Starfy</resposta>
+				<linkimagem>The-Legendary-Starfy</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>War Metal: Tyrant</nome>
+				<plataforma>Facebook</plataforma>
+				<genero>Card Game</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2010</ano>
+				<resposta>War Metal Tyrant</resposta>
+				<linkimagem>War-Metal-Tyrant</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Carmageddon</nome>
+				<plataforma>PC</plataforma>
+				<genero>Corrida/Combate veicular</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1997</ano>
+				<resposta>Carmageddon</resposta>
+				<linkimagem>Carmageddon</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Chibi-Robo! Plug Into Adventure!</nome>
+				<plataforma>Gamecube</plataforma>
+				<genero>Plataforma/ Aventura</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2005</ano>
+				<resposta>Chibi Robo</resposta>
+				<linkimagem>Chibi-Robo</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Fire Emblem : Awakening</nome>
+				<plataforma>3DS</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2013</ano>
+				<resposta>Fire Emblem</resposta>
+				<linkimagem>Fire-Emblem</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Jojo's Bizarre Adventure: All Star Battle</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Luta</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2014</ano>
+				<resposta>Jojos Bizarre Adventure</resposta>
+				<linkimagem>Jojos-Bizarre-Adventure</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Strider</nome>
+				<plataforma>PC/Arcade</plataforma>
+				<genero>Plataforma/Hack and Slash</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1989</ano>
+				<resposta>Strider</resposta>
+				<linkimagem>Strider</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Eternal Darkness: Sanity's Requiem</nome>
+				<plataforma>Gamecube</plataforma>
+				<genero>Survival Horror</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2002</ano>
+				<resposta>Eternal Darkness</resposta>
+				<linkimagem>Eternal-Darkness</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>ToeJam and Earl</nome>
+				<plataforma>MegaDrive</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1991</ano>
+				<resposta>Toejam and Earl</resposta>
+				<linkimagem>Toejam-and-Earl</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Learn to Fly</nome>
+				<plataforma>PC</plataforma>
+				<genero>Toss Game</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2009</ano>
+				<resposta>Learn to Fly</resposta>
+				<linkimagem>Learn-to-Fly</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Electroplankton</nome>
+				<plataforma>DS</plataforma>
+				<genero>Ritmo</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2005</ano>
+				<resposta>Electroplankton</resposta>
+				<linkimagem>Electroplankton</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Shantae</nome>
+				<plataforma>GBC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>6</dificuldade>
+				<ano>2002</ano>
+				<resposta>Shantae</resposta>
+				<linkimagem>Shantae</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Geek Quiz</nome>
+				<plataforma>Android/iOS</plataforma>
+				<genero>Quiz</genero>
+				<dificuldade>1</dificuldade>
+				<ano>2014</ano>
+				<resposta>Geek Quiz</resposta>
+				<linkimagem>Geek-Quiz</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Seaman</nome>
+				<plataforma>Dreamcast</plataforma>
+				<genero>Simulation</genero>
+				<dificuldade>9</dificuldade>
+				<ano>1999</ano>
+				<resposta>Seaman</resposta>
+				<linkimagem>Seaman</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Deadly Creatures</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>10</dificuldade>
+				<ano>2009</ano>
+				<resposta>Deadly Creatures</resposta>
+				<linkimagem>Deadly-Creatures</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Xenoblade Chronicles</nome>
+				<plataforma>Wii</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2010</ano>
+				<resposta>Xenoblade Chronicles</resposta>
+				<linkimagem>Xenoblade-Chronicles</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Starhawk</nome>
+				<plataforma>PS3</plataforma>
+				<genero>Shooter/Combate Veicular</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2012</ano>
+				<resposta>Starhawk</resposta>
+				<linkimagem>Starhawk</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Clu Clu Land</nome>
+				<plataforma>NES</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1984</ano>
+				<resposta>Clu Clu Land</resposta>
+				<linkimagem>Clu-Clu-Land</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Dr Jekyll and Mr Hyde</nome>
+				<plataforma>NES</plataforma>
+				<genero>Ação</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1988</ano>
+				<resposta>Dr Jekyll and Mr Hyde</resposta>
+				<linkimagem>Dr-Jekyll-and-Mr-Hyde</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Zack and Wiki: Quest for Barbaros' Treasure</nome>
+				<plataforma>Wii</plataforma>
+				<genero>Adventure/Puzzle</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2007</ano>
+				<resposta>Zack and Wiki</resposta>
+				<linkimagem>Zack-and-Wiki</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Plumbers don't Wear Ties</nome>
+				<plataforma>3DO</plataforma>
+				<genero>"Interactive" "movie"</genero>
+				<dificuldade>10</dificuldade>
+				<ano>1994</ano>
+				<resposta>Plumbers dont Wear Ties</resposta>
+				<linkimagem>Plumbers-Dont-Wear-Ties</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Guacamelee</nome>
+				<plataforma>PS3 / PSVita</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2013</ano>
+				<resposta>Guacamelee</resposta>
+				<linkimagem>Guacamelee</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sparkster</nome>
+				<plataforma>SNES</plataforma>
+				<genero>Plataforma/Shooter</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1994</ano>
+				<resposta>Sparkster</resposta>
+				<linkimagem>Sparkster</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Gravity Rush</nome>
+				<plataforma>PSVita</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2012</ano>
+				<resposta>Gravity Rush</resposta>
+				<linkimagem>Gravity-Rush</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Captain Novolin</nome>
+				<plataforma>Super Nintendo</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>9</dificuldade>
+				<ano>1992</ano>
+				<resposta>Captain Novolin</resposta>
+				<linkimagem>Captain-Novolin</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Burrito Bison</nome>
+				<plataforma>Web</plataforma>
+				<genero>Toss Game</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2011</ano>
+				<resposta>Burrito Bison</resposta>
+				<linkimagem>Burrito-Bison</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ben There, Dan That</nome>
+				<plataforma>PC</plataforma>
+				<genero>Point-and-Click Adventure</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2008</ano>
+				<resposta>Ben There Dan That</resposta>
+				<linkimagem>Ben-There-Dan-That</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Glover</nome>
+				<plataforma>PC/N64/Playstation</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1998</ano>
+				<resposta>Glover</resposta>
+				<linkimagem>Glover</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>VVVVVV</nome>
+				<plataforma>PC</plataforma>
+				<genero>Plataforma/Puzzle</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2010</ano>
+				<resposta>VVVVVV</resposta>
+				<linkimagem>VVVVVV</linkimagem>
+			</jogo>
+		</level12>
+		<extra>
+			<jogo>
+				<nome>Wario Woods</nome>
+				<plataforma>NES/Super Nintendo</plataforma>
+				<genero>Puzzle</genero>
+				<dificuldade>6</dificuldade>
+				<ano>1994</ano>
+				<resposta>Warios Woods</resposta>
+				<linkimagem>Warios-Woods</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>GunZ: The Duel</nome>
+				<plataforma>PC</plataforma>
+				<genero>Shooter</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2006</ano>
+				<resposta>GunZ the Duel</resposta>
+				<linkimagem>GunZ-The-Duel</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>I-Ninja</nome>
+				<plataforma>NGC</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>2003</ano>
+				<resposta>I Ninja</resposta>
+				<linkimagem>I-Ninja</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Sid Meier's Pirates!</nome>
+				<plataforma>PC</plataforma>
+				<genero>Ação/Estratégia</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1987</ano>
+				<resposta>Sid Meiers Pirates</resposta>
+				<linkimagem>Sid-Meiers-Pirates</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Spider-Man and Venom: Maximum Carnage</nome>
+				<plataforma>Super Nintendo/Mega Drive</plataforma>
+				<genero>Beat 'em up</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1994</ano>
+				<resposta>Maximum Carnage</resposta>
+				<linkimagem>Spiderman-and-Venom-Maximum-Carnage</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>The Lost Vikings</nome>
+				<plataforma>PC / SNES / Mega Drive</plataforma>
+				<genero>Puzzle/Plataforma</genero>
+				<dificuldade>7</dificuldade>
+				<ano>1992</ano>
+				<resposta>The Lost Vikings</resposta>
+				<linkimagem>The-Lost-Vikings</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Destroy All Humans</nome>
+				<plataforma>Mobile/PS2/Xbox</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2005</ano>
+				<resposta>Destroy All Humans</resposta>
+				<linkimagem>Destroy-All-Humans</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Killer 7</nome>
+				<plataforma>NGC / PS2</plataforma>
+				<genero>Ação/Aventura</genero>
+				<dificuldade>8</dificuldade>
+				<ano>2005</ano>
+				<resposta>Killer 7</resposta>
+				<linkimagem>Killer-7</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Knights of the Round</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Hack n Slash</genero>
+				<dificuldade>8</dificuldade>
+				<ano>1991</ano>
+				<resposta>Knights of the Round</resposta>
+				<linkimagem>Knights-of-the-Round</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Drill Dozer</nome>
+				<plataforma>GBA</plataforma>
+				<genero>Ação/Plataforma</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2005</ano>
+				<resposta>Drill Dozer</resposta>
+				<linkimagem>Drill-Dozer</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Golden Sun</nome>
+				<plataforma>GBA</plataforma>
+				<genero>RPG</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2001</ano>
+				<resposta>Golden Sun</resposta>
+				<linkimagem>Golden-Sun</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Ikaruga</nome>
+				<plataforma>Arcade</plataforma>
+				<genero>Shoot 'em Up</genero>
+				<dificuldade>9</dificuldade>
+				<ano>2001</ano>
+				<resposta>Ikaruga</resposta>
+				<linkimagem>Ikaruga</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>Lester the Unlikely</nome>
+				<plataforma>SNES</plataforma>
+				<genero>Plataforma</genero>
+				<dificuldade>10</dificuldade>
+				<ano>1994</ano>
+				<resposta>Lester the Unlikely</resposta>
+				<linkimagem>Lester-the-Unlikely</linkimagem>
+			</jogo>
+			<jogo>
+				<nome>A Boy and His Blob: Trouble on Blobolonia</nome>
+				<plataforma>NES</plataforma>
+				<genero>Plataforma/Puzzle</genero>
+				<dificuldade>3</dificuldade>
+				<ano>1989</ano>
+				<resposta>A Boy and His Blob</resposta>
+				<linkimagem>A-Boy-and-His-Blob</linkimagem>
+			</jogo>
+		</extra>
+	</root>
+</data-set>
